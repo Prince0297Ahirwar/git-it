@@ -1,1 +1,6 @@
 phone
+
+touchscreen
+glass
+sound
+mic
