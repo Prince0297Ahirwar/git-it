@@ -4,3 +4,4 @@ touchscreen
 glass
 sound
 mic
+fingerprint
